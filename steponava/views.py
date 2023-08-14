@@ -27,6 +27,7 @@ def index(request):
         #    'num_lapai': num_lapai,
         # 'num_nauji_lapai': num_nauji_lapai,
         #'num_vadovai': num_vadovai,
+        'num_visits': num_visits,
     }
 
     # renderiname index.html, su duomenimis kintamąjame context
