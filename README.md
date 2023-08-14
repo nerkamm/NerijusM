@@ -5,3 +5,5 @@ Created using:
 - HTML templates
 - SQLite
 
+Nerijus Mackonis
+nerijus.mackonis@codeacademylt.onmicrosoft.com
